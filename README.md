@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-0.1.0-blue?style=flat-square" alt="Version" />
-  <a href="https://github.com/HemSoft/hs-buddy-vscode-extension/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/hemsoft-dev/hs-buddy-vscode-extension/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License" /></a>
   <img src="https://img.shields.io/badge/status-WIP-orange?style=flat-square" alt="Status" />
 </p>
 
@@ -89,7 +89,7 @@ See [CHANGELOG.md](CHANGELOG.md) for a detailed history of changes.
 
 ## 🐛 Issues & Feedback
 
-Found a bug or have a feature request? [Open an issue](https://github.com/HemSoft/hs-buddy-vscode-extension/issues) on GitHub.
+Found a bug or have a feature request? [Open an issue](https://github.com/hemsoft-dev/hs-buddy-vscode-extension/issues) on GitHub.
 
 ---
 
